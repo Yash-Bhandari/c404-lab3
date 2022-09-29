@@ -1,0 +1,13 @@
+1. os.environ
+
+2. QUERY_STRING
+
+3. HTTP_USER_AGENT
+
+4. It comes by standard input, but we can access it in python through a cgi.FieldStorage instance
+
+5. Set-Cookie: <cookie-name>=<cookie-value>
+
+6. Cookie: name=value; name2=value2; name3=value3
+
+7. Cookies are used to persist data between http requests as they are stored by the browser and sent with every request.
